@@ -1,0 +1,16 @@
+#weatherdetails{
+    color:white;
+    border-style:solid;
+    border-width: 2px;
+    border-color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 80%;
+    margin-left: 30px;
+    margin-top:150px;
+    text-align: center;
+}
+#img{
+    height: 50px;
+
+}
