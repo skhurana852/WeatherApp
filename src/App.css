@@ -86,3 +86,9 @@ html::after {
 #footer{
     color:white;
 }
+body {
+    background-image: url('./images/weather.jpg');
+  }
+.image{
+    width:100%;
+}

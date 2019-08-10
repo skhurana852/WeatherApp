@@ -10,7 +10,8 @@
     margin-top:150px;
     text-align: center;
 }
-#img{
-    height: 50px;
+.image{
+    height: 90px;
+    width: 90px;
 
 }
