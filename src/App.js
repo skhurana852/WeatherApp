@@ -32,7 +32,7 @@ getWeather =  async (e) =>{
   console.log(city);
   console.log(country);
   //fethcing data using fetch library in an asynchronous function
-  const api_call = await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=a1d5dd29b06c7cbaf7523098e9726acc`)
+  const api_call = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=a1d5dd29b06c7cbaf7523098e9726acc`)
   
   //converting data into json
   const response = await api_call.json();
