@@ -12,7 +12,7 @@ constructor(props){
     country : undefined,
     humidity: undefined,
     description: undefined,
-    error: false,
+    error: true,
     errorMessage:'',
     ImageUrl:'https://media.giphy.com/media/l1J9w4UPRtjZtPsA0/giphy.gif',
     audioUrl:''
